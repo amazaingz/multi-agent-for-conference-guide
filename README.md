@@ -28,8 +28,6 @@
    - 议程安排问题 → 议程规划师
 5. 各专业 Agent 结合知识库提供专业建议
 6. 持续跟踪参会者需求，提供个性化服务
-#### 架构图
-![架构图](./docs/agents-orchestrator.png)
 
 ### 4. 测试&部署
 #### 4.1 Install Dependencies
@@ -97,3 +95,4 @@ https://strandsagents.com/latest/documentation/docs/user-guide/deploy/deploy_to_
 ```bash
 python agentcore_tools/invoke.py "你好，我想了解一下 re:Invent 期间 Las Vegas 的天气情况"
 ```
+
