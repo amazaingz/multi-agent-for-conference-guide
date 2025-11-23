@@ -27,4 +27,5 @@ BEDROCK_AGENTCORE_MEMORY_ID = "memory22-uuH40yFOhd"
 # Bedrock AgentCore Runtime Configuration
 # 从部署后的 AgentCore Runtime 获取此 ARN
 # 运行 04-agentcore-runtime-strands-deploy.ipynb 部署后，在输出中找到 Runtime ARN
-AGENTCORE_RUNTIME_ARN = "arn:aws:bedrock-agentcore:us-east-1:605630858339:runtime/strands_claude_getting_started-VS3rt4EOF7"
+AGENTCORE_RUNTIME_ARN = "arn:aws:bedrock-agentcore:us-east-1:xxxxxxx:runtime/strands_claude_getting_started-VS3rt4EOF7"
+
