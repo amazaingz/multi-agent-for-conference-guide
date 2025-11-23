@@ -15,7 +15,7 @@ agentcore_runtime = Runtime()
 # 配置并部署
 logger.info("开始配置和部署...")
 config_response = agentcore_runtime.configure(
-    entrypoint="agentcore_runtime_main.py",
+    entrypoint="deploy_agentcore.py",
     auto_create_execution_role=True,
     auto_create_ecr=True,
     requirements_file="requirements.txt",
@@ -81,3 +81,4 @@ print("✓ 部署完成!")
 print(f"ARN: {launch_result.agent_arn}")
 print(f"已自动更新到 {config_file}")
 print("=" * 80)
+
