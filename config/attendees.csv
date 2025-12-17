@@ -1,0 +1,6 @@
+user_id,name,company,interests,dietary_preferences,registered_sessions
+user001,张伟,TechCorp,AI/ML;Serverless,无特殊要求,AIM301;SVS201;KEY001
+user002,李娜,CloudSoft,Database;Security,素食,DAT401;SEC302;KEY001
+user003,王强,DataTech,Containers;Networking,无特殊要求,CON301;NET201;KEY002
+user004,刘芳,AILabs,AI/ML;Analytics,清真,AIM402;ANT301;KEY001
+user005,陈明,DevOps Inc,Serverless;Containers,无特殊要求,SVS301;CON201;KEY002
